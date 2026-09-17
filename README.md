@@ -1,6 +1,4 @@
-# IS484-Practica001-Dia-Flores
-
-**Práctica Calificada 001**
+# ráctica Calificada 001
 
 | | |
 |---|---|
