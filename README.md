@@ -1,4 +1,4 @@
-# ráctica Calificada 001
+# Práctica Calificada 001
 
 | | |
 |---|---|
